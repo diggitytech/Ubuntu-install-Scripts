@@ -12,8 +12,6 @@ Install Webmin
 Clean up files using autoremove
 
 Install git:
-
-Copy
 sudo apt install git -y
 
 
