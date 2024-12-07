@@ -12,18 +12,24 @@ Install Webmin
 Clean up files using autoremove
 
 Install git:
+```
 sudo apt install git -y
-
+```
 
 Get files from Github:
+```
 git clone https://github.com/diggitytech/Ubuntu-install-Scripts.git
-
+```
 Change to directory:
+```
 cd Ubuntu-install-Scripts
-
+```
 Make executable:
+```
 sudo chmod +x fresh_VM_install.sh
-
+```
 
 Execute:
+```
 sudo ./fresh_VM_install.sh
+```
