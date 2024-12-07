@@ -1,15 +1,27 @@
 This Script will do several things.
-
+===
 It will prompt to add a new host name.
+
 It will prompt to add a user
+
 It will prompt to add a password
+
 It will then add passwordless for sudo group
+
 It will then update
+
 It will install curl, wget , git, qemu-guest-agent
+
 Start the qemu-guest-agent.service
+
 Pull the repo for Webmin
+
 Install Webmin
+
 Clean up files using autoremove
+
+
+## To run script
 
 Install git:
 ```
